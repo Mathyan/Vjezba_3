@@ -10,4 +10,4 @@ elif rac == "-":
 elif rac == "/":
     if b == 0 : print("Nemozete djeliti sa nulom")
     else: print(f"{a} / {b} = {a/b}")
-else:print("Niste unijeli racunsku.")
+else:print("Niste unijeli racunsku operaciju.")
